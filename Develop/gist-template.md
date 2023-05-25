@@ -1,10 +1,10 @@
-# Title (replace with your title)
+# Regex-Tutorial
 
-Introductory paragraph (replace this with your text)
+This tutorial was made for the reason to help my understanding of regex expressions. Regex or Regular expressions are a sequence of characters that defines a search pattern in a body of text.
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Matching an Email regex.
 
 ## Table of Contents
 
@@ -18,7 +18,7 @@ Briefly summarize the regex you will be describing and what you will explain. In
 - [Character Escapes](#character-escapes)
 
 ## Regex Components
-
+    
 ### Anchors
 
 ### Quantifiers
